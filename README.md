@@ -103,14 +103,4 @@
     ```
     推荐使用 [Vercel](https://vercel.com/) (Next.js 的创建者) 或其他支持 Node.js 应用的平台进行部署。
 
-## 如何贡献
-
-1.  Fork 本仓库
-2.  创建您的 Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  提交您的更改 (`git commit -m 'Add some AmazingFeature'`)
-4.  将更改推送到分支 (`git push origin feature/AmazingFeature`)
-5.  打开一个 Pull Request
-
-## 许可证
-
-[请在此处指明项目的许可证，例如 MIT, Apache 2.0 等。如果尚未确定，建议添加一个。] 
+![企业微信截图_17473655919204](https://github.com/user-attachments/assets/c6cfce34-072b-4d6c-b58c-9a6fbfc3c38a)
